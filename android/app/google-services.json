@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1009493750192",
+    "firebase_url": "https://dailyquest-b1c5f.firebaseio.com",
+    "project_id": "dailyquest-b1c5f",
+    "storage_bucket": "dailyquest-b1c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009493750192:android:e860aaa165a75fbfbe6675",
+        "android_client_info": {
+          "package_name": "com.dailyquest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009493750192-ndvpn7okpr2f64nkg26h9ce1ud6d1hc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP2A64lpvZ2ylUyesXw12ChuCtDGVGaAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009493750192-ndvpn7okpr2f64nkg26h9ce1ud6d1hc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
